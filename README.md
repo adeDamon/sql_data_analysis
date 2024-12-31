@@ -1,4 +1,4 @@
-Welcome to the Data Jobs Analysis Project! 
+Welcome to the Data Jobs Analysis Project! using PostgreSQL 
 This project aims to analyze the trends and patterns in the job market for data-related positions using SQL.
 We will leverage SQL queries to extract, transform, and analyze data from various sources to gain insights into the job market.
 The job market for data professionals is rapidly evolving.
